@@ -4,7 +4,7 @@
 
 Claude Code와 Codex의 답을 비교하는 macOS 14+ 앱입니다. 이 저장소는 공개 다운로드 페이지와 배포 파일 전용입니다. 앱 소스와 개인 설정은 포함하지 않습니다.
 
-현재 Developer ID 서명·Apple 공증 배포를 준비 중입니다. 배포 파일이 올라오기 전에는 다운로드할 수 없습니다. 공개 배포 파일은 Apple Silicon/Intel universal DMG입니다.
+현재 무료 버전은 ad-hoc 서명이며 Developer ID 서명·Apple 공증이 없습니다. macOS에서 실행이 차단될 수 있습니다. 출처를 확인하고 시스템 설정 → 개인정보 보호 및 보안 → 확인 없이 열기(Open Anyway)로 앱별 실행을 허용할 수 있습니다. 조직 정책에 따라 허용되지 않을 수 있습니다. 공개 배포 파일은 Apple Silicon/Intel universal DMG입니다.
 
 설치: DMG를 열고 Aporia를 Applications 폴더로 옮긴 뒤 실행하세요. 첫 준비 화면에서 Claude Code·Codex 설치와 로그인을 확인합니다. Xcode는 필요하지 않습니다.
 
